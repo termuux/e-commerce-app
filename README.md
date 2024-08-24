@@ -24,3 +24,5 @@ A dynamic ecommerce application to incorporate seamless user experience.
 
 - **Flutter:**
 - **Firebase:**
+
+![E commerce Demo Application](images/e-commerce.jpg)
